@@ -1,0 +1,33 @@
+body {
+    background: #ffdfcf !important;
+}
+
+h1 {
+    font-size: 150% !important;
+}
+
+header {
+    text-align: center;
+    line-height: 500%;
+    margin-top: 20px;
+}
+
+.lecturesOrPartys {
+    text-align: center;
+    line-height: 500%;
+}
+
+.study {
+    text-align: center;
+    line-height: 500%;
+}
+
+.university {
+    text-align: center;
+    line-height: 500%;
+}
+
+.futurePredict {
+    text-align: center;
+    line-height: 500%;
+}
